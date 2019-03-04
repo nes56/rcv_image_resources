@@ -1,1 +1,1 @@
-# rcv_videos
+# rcv_images_resources
